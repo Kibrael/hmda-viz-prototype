@@ -55,6 +55,10 @@ hmda-viz-prototype/
 processing/processing_log.txt
 processing/old_files
 
+# SQL#
+SQL/old
+SQL/data
+
 
 # for now remove aggregate/2012 and /2013, except 2013/alabama #
 aggregate/*
@@ -64,7 +68,7 @@ aggregate/2013/*
 disclosure/*
 !disclosure/2013
 disclosure/2013/*
-!disclosure/2013/wells_fargo_bank_na
+disclosure/2013/wells_fargo_bank_na
 
 
 
